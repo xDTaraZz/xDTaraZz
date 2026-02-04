@@ -1,4 +1,4 @@
-<p align="left">
+<p align="right">
   <a href="https://discord.com/users/1339675395892711455">
     <img src="https://lanyard.cnrad.dev/api/1339675395892711455" />
   </a>
