@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://discord.com/users/1339675395892711455">
+    <img src="https://lanyard.cnrad.dev/api/1339675395892711455" />
+  </a>
+</p>
+
 # 👋 Hi, I'm xDTaraZ
 
 System-level focused developer with an interest in tooling and internals.  
