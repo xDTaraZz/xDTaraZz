@@ -18,5 +18,3 @@ Some experience with reverse engineering and cracking (learning purposes).
 </p>
 
 ---
-
-<sub>Focused on practical development and understanding how things work under the hood.</sub>
