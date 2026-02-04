@@ -1,28 +1,34 @@
 <table width="100%">
-<tr>
-<td align="left">
+  <tr>
+    <td align="left" width="33%">
 
 # 👋 Hi, I'm xDTaraZ
 
-System-level focused developer with an interest in tooling and internals.  
+System-level focused developer interested in tooling and internals.  
 Comfortable working with both native and managed environments.  
 Background in reverse engineering and cracking, primarily for learning and analysis.
 
-</td>
-</tr>
+    </td>
+    <td width="34%"></td>
+    <td width="33%"></td>
+  </tr>
 
-<tr>
-<td align="center">
+  <tr>
+    <td></td>
+    <td align="center">
 
 <a href="https://discord.com/users/1339675395892711455">
   <img src="https://lanyard.cnrad.dev/api/1339675395892711455" />
 </a>
 
-</td>
-</tr>
+    </td>
+    <td></td>
+  </tr>
 
-<tr>
-<td align="right">
+  <tr>
+    <td></td>
+    <td></td>
+    <td align="right">
 
 ## 🛠 Languages
 
@@ -35,8 +41,8 @@ Background in reverse engineering and cracking, primarily for learning and analy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" />
 </p>
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
