@@ -1,8 +1,8 @@
 # 👋 Hi, I'm xDTaraZ
 
-Developer interested in system-level stuff and tooling.  
-Work with both native and managed code.  
-Some experience with reverse engineering and cracking (learning purposes).
+System-level focused developer with an interest in tooling and internals.  
+Comfortable working with both native and managed environments.  
+Background in reverse engineering and cracking, primarily for learning and analysis.
 
 ---
 
@@ -18,3 +18,5 @@ Some experience with reverse engineering and cracking (learning purposes).
 </p>
 
 ---
+
+<sub>Prefer simple designs, clear logic, and understanding systems end-to-end.</sub>
