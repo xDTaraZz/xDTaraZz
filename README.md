@@ -45,8 +45,8 @@ msg_txt:     db  "> I'm just a kid.", 0xA
 msg_txt_len: equ $-msg_txt
 ```
 
-🧠 About Me
-I’m a 16-year-old developer who enjoys building tools and understanding how software works under the hood.
+<p align="center">🧠 About Me</p>
+<p align="center">I’m a 16-year-old developer who enjoys building tools and understanding how software works under the hood.</p>
 
 - 🔍 Reverse engineering, debugging, binary analysis
 
@@ -54,10 +54,21 @@ I’m a 16-year-old developer who enjoys building tools and understanding how so
 
 - 🛡 Security concepts (anti-tamper / anti-exploit style projects)
 
-🛠 Tech Stack
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="42" alt="Lua" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" alt="Go" /> </p>
+```bash
+$ whoami
+xDTaraZ
 
-🔥 What I Build
+$ focus
+reverse engineering • tooling • FiveM systems
+
+$ status
+just a kid, still learning internals
+```
+
+<p align="center">🛠 Tech Stack</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="42" alt="Lua" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" alt="Go" /> </p>
+
+<p align="center">🔥 What I Build</p>
 - ⚙️ FiveM systems & server-side tooling
 
 - 🧩 Reverse engineering utilities & experiments
@@ -66,9 +77,9 @@ I’m a 16-year-old developer who enjoys building tools and understanding how so
 
 - 🧪 Debugging & automation tools
 
-- 📡 Connect with me
+<p align="center">📡 Connect with me</p>
 <p align="center"> <a href="https://discord.com/users/1339675395892711455"> <img src="https://lanyard.cnrad.dev/api/1339675395892711455?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=offline" /> </a> </p>
 
-<div align="center"> <sub><i>"Whoami"</i></sub> </div>
+<div align="center"> <sub><i>root@xDTaraZ:~$ whoami</i></sub> </div>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0d1117&height=110&section=footer&text=&fontSize=0" /> </div>
