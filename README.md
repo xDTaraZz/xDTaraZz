@@ -26,9 +26,11 @@
  > mindset   : clean code, fast execution, full control
  > currently : building private projects & improving internals
 -------------------------------------------------------------
+```
 </div>
 
 <div align="center">
+```asm
 ; -----------------------------------------------------------
 ; bootlog: /dev/tty0
 ; -----------------------------------------------------------
@@ -56,6 +58,7 @@ msg_bin_len: equ $-msg_bin
 msg_txt:     db "> I'm just a kid.", 0xA
 msg_txt_len: equ $-msg_txt
 ; -----------------------------------------------------------
+```
 </div>
 
 🧠 About Me
