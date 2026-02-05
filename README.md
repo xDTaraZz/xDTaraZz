@@ -18,8 +18,6 @@
 
 ---
 
-<div align="center">
-
 ```txt
 ------------------- [ xDTaraZ@localhost ] -------------------
  > focus     : reverse engineering / tooling / FiveM systems
@@ -27,9 +25,7 @@
  > currently : building private projects & improving internals
 -------------------------------------------------------------
 ```
-</div>
 
-<div align="center">
 ```asm
 ; -----------------------------------------------------------
 ; bootlog: /dev/tty0
@@ -59,7 +55,6 @@ msg_txt:     db "> I'm just a kid.", 0xA
 msg_txt_len: equ $-msg_txt
 ; -----------------------------------------------------------
 ```
-</div>
 
 🧠 About Me
 I’m a 16-year-old developer who enjoys building tools and understanding how software works under the hood.
