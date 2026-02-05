@@ -67,6 +67,6 @@ I’m a 16-year-old developer who enjoys building tools and understanding how so
 - 🧪 Debugging & automation tools
 
 <p align="center">📡 Connect with me</p>
-<p align="center"> <a href="https://discord.com/users/1339675395892711455"> <img src="https://lanyard.cnrad.dev/api/1339675395892711455?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=always learning." /> </a> </p>
+<p align="center"> <a href="https://discord.com/users/1339675395892711455"> <img src="https://lanyard.cnrad.dev/api/1339675395892711455?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=alwayslearning." /> </a> </p>
 
 <div align="center"> <sub><i>"Whoami"</i></sub> </div>
