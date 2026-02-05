@@ -21,11 +21,16 @@
 <div align="center">
 
 ```txt
-[ xDTaraZ@localhost ]----------------------------------------
+------------------- [ xDTaraZ@localhost ] -------------------
  > focus     : reverse engineering / tooling / FiveM systems
  > mindset   : clean code, fast execution, full control
  > currently : building private projects & improving internals
 -------------------------------------------------------------
+```
+
+```txt
+01001001 00100111 01101101 00100000 01101010 01110101 01110011 01110100 00100000 01100001 00100000 01101011 01101001 01100100
+> Um...
 ```
 
 </div>
