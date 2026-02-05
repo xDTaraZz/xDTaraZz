@@ -23,34 +23,58 @@
 + ROLE    : TOOLING / SYSTEM DEV
 + FOCUS   : RESEARCH • DEBUGGING • PERFORMANCE
 + TARGET  : CLEAN + FAST + HARD TO BREAK
-🧠 About Me
+```
 
-I’m a 16-year-old developer focused on system-level projects and game tooling.
+---
 
-💻 Languages: Lua · C++ · C# · Python · JavaScript · Go
+## 🧠 About Me
 
-🔍 Reverse engineering, debugging, binary analysis
+I’m a **16-year-old developer** focused on system-level projects and game tooling.
 
-🛡 Anti-cheat / anti-exploit / anti-tamper concepts
+- 💻 Languages: **Lua · C++ · C# · Python · JavaScript · Go**
+- 🔍 Reverse engineering, debugging, binary analysis
+- 🛡 Anti-cheat / anti-exploit / anti-tamper concepts
+- ⚙️ FiveM scripts, server systems, and automation tools
 
-⚙️ FiveM scripts, server systems, and automation tools
+---
 
-🛠 Tech Stack
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" /> </p>
-🔥 What I Build
+## 🛠 Tech Stack
 
-⚙️ FiveM scripts & server systems
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+</p>
 
-🧩 Reverse engineering tools & experiments
+---
 
-🛡 Anti-cheat / anti-tamper research
+## 🔥 What I Build
 
-🧪 Debugging & automation utilities
+- ⚙️ FiveM scripts & server systems
+- 🧩 Reverse engineering tools & experiments
+- 🛡 Anti-cheat / anti-tamper research
+- 🧪 Debugging & automation utilities
 
-📡 Discord
-<p align="left"> <a href="https://discord.com/users/1339675395892711455"> <img src="https://lanyard.cnrad.dev/api/1339675395892711455?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=offline" /> </a> </p>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0d1117&height=110&section=footer&text=&fontSize=0" /> <br>
+---
 
+## 📡 Discord
+
+<p align="left">
+  <a href="https://discord.com/users/1339675395892711455">
+    <img src="https://lanyard.cnrad.dev/api/1339675395892711455?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=offline" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0d1117&height=110&section=footer&text=&fontSize=0" />
+
+<br>
 <sub><i>"clean code • fast tools • full control"</i></sub>
 
-</div> ```
+</div>
