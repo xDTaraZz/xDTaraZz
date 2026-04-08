@@ -5,8 +5,8 @@
 
 <br>
 
-<a href="https://discord.com/users/1339675395892711455">
-  <img src="https://lanyard.cnrad.dev/api/1339675395892711455?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=alwayslearning." />
+<a href="https://discord.com/users/957154224079257651">
+  <img src="https://lanyard.cnrad.dev/api/957154224079257651?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=alwayslearning." />
 </a>
 
 </div>
