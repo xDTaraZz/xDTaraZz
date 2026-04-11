@@ -22,15 +22,6 @@ age       : 16
 
 ---
 
-### 📌 Current Focus
-
-- Reverse engineering (binary analysis, debugging, assembly reading)
-- Automation tools & low-level systems
-- Building small tools with practical use
-- FiveM systems & server-side tooling
-
----
-
 ### 🛠 Languages
 
 <p>
