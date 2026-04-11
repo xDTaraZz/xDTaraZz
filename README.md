@@ -10,14 +10,6 @@
 </a>
 
 ---
-### 🧾 Info
-
-```
-name      : Tara
-age       : 16
-```
-
----
 
 ### 🛠 Languages
 
@@ -33,5 +25,5 @@ age       : 16
 ---
 
 <div align="center">
-<sub>building > talking</sub>
+<sub>Tara</sub>
 </div>
