@@ -11,9 +11,9 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Focus-FiveM-black?style=flat&logo=lua"/>
-<img src="https://img.shields.io/badge/Code-Clean-darkblue?style=flat&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/Status-Building-green?style=flat"/>
+<img src="https://img.shields.io/badge/building-0d1117?style=flat&logo=github"/>
+<img src="https://img.shields.io/badge/learning-0d1117?style=flat&logo=bookstack"/>
+<img src="https://img.shields.io/badge/debugging-0d1117?style=flat&logo=bug"/>
 
 <br><br>
 
