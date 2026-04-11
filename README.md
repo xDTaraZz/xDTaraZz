@@ -9,7 +9,7 @@
   <img src="https://lanyard.cnrad.dev/api/957154224079257651?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=" />
 </a>
 
-### 🛠 Languages
+# 🛠 Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="32"/>
@@ -19,8 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32"/>
 </p>
-
----
 
 <div align="center">
 <sub>Tara</sub>
