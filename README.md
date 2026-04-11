@@ -11,9 +11,9 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/building-0d1117?style=flat&logo=github"/>
-<img src="https://img.shields.io/badge/learning-0d1117?style=flat&logo=bookstack"/>
-<img src="https://img.shields.io/badge/debugging-0d1117?style=flat&logo=bug"/>
+<img src="https://img.shields.io/badge/bangkok-0d1117?style=flat&logo=googlemaps"/>
+<img src="https://img.shields.io/badge/thailand-0d1117?style=flat&logo=flag"/>
+<img src="https://img.shields.io/badge/building-0d1117?style=flat"/>
 
 <br><br>
 
@@ -30,6 +30,6 @@
 
 <br><br>
 
-<sub>Tara</sub>
+<sub>run > error</sub>
 
 </div>
