@@ -6,10 +6,8 @@
 <br>
 
 <a href="https://discord.com/users/957154224079257651">
-  <img src="https://lanyard.cnrad.dev/api/957154224079257651?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=alwayslearning." />
+  <img src="https://lanyard.cnrad.dev/api/957154224079257651?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=" />
 </a>
-
----
 
 ### 🛠 Languages
 
