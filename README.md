@@ -1,15 +1,17 @@
 <div align="center">
 
-# xDTaraZ
-**16 y/o Developer**
+<h1>xDTaraZ</h1>
+<b>16 y/o Developer</b>
 
 <br>
 
 <a href="https://discord.com/users/957154224079257651">
-  <img src="https://lanyard.cnrad.dev/api/957154224079257651?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=" />
+  <img src="https://lanyard.cnrad.dev/api/957154224079257651?theme=dark&bg=0d1117&borderRadius=12px" />
 </a>
 
-# 🛠 Languages
+<br><br>
+
+<h2>🛠 Languages</h2>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="32"/>
@@ -20,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32"/>
 </p>
 
-<div align="center">
+<br>
+
 <sub>Tara</sub>
+
 </div>
