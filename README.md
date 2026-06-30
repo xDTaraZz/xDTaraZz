@@ -13,30 +13,28 @@
 
 ---
 
-<table width="100%" style="border: none; border-collapse: collapse; margin: 20px 0;">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="65%" valign="top" style="border: none; padding: 0 10px; text-align: left;">
-      <h4 style="letter-spacing: 1px; color: #555; margin-bottom: 15px;">LANGUAGES & DATABASES</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="28" alt="Lua"/></span>
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="C++"/></span>
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="28" alt="Rust"/></span>
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="28" alt="Go"/></span>
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/></span>
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript"/></span>
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React"/></span>
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL"/></span>
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="28" alt="Redis"/></span>
-      </div>
+    <th align="left" style="border: none; padding-right: 40px; font-weight: bold; color: #8b949e;">LANGUAGES & DATABASES</th>
+    <th align="left" style="border: none; font-weight: bold; color: #8b949e;">TOOLS</th>
+  </tr>
+  <tr>
+    <td align="left" valign="top" style="border: none; padding-right: 40px; padding-top: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="36" alt="Lua"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="36" alt="Go"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis"/>
     </td>
-    
-    <td width="35%" valign="top" style="border: none; padding: 0 10px; text-align: left;">
-      <h4 style="letter-spacing: 1px; color: #555; margin-bottom: 15px;">TOOLS</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="VS Code"/></span>
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="28" alt="Postman"/></span>
-        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" alt="Figma"/></span>
-      </div>
+    <td align="left" valign="top" style="border: none; padding-top: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36" alt="Postman"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="Figma"/>
     </td>
   </tr>
 </table>
