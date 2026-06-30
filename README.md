@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-B71C1C?style=flat-square"/>
 
 </td>
 
