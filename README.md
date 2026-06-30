@@ -13,31 +13,30 @@
 
 ---
 
-<table align="center" style="border: none; border-collapse: collapse;">
+<table width="100%" style="border: none; border-collapse: collapse; margin: 20px 0;">
   <tr>
-    <td align="center" valign="top" style="border: none; padding: 0 30px;">
-      <h3>Languages & Databases</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="32" alt="Lua"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="32" alt="Rust"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" alt="Go"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
-      </p>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32" alt="Redis"/>
-      </p>
+    <td width="65%" valign="top" style="border: none; padding: 0 10px; text-align: left;">
+      <h4 style="letter-spacing: 1px; color: #555; margin-bottom: 15px;">LANGUAGES & DATABASES</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="28" alt="Lua"/></span>
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="C++"/></span>
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="28" alt="Rust"/></span>
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="28" alt="Go"/></span>
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/></span>
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript"/></span>
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React"/></span>
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL"/></span>
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="28" alt="Redis"/></span>
+      </div>
     </td>
-    <td align="center" valign="top" style="border: none; padding: 0 30px;">
-      <h3>Tools</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VS Code"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="32" alt="Postman"/> &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma"/>
-      </p>
+    
+    <td width="35%" valign="top" style="border: none; padding: 0 10px; text-align: left;">
+      <h4 style="letter-spacing: 1px; color: #555; margin-bottom: 15px;">TOOLS</h4>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="VS Code"/></span>
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="28" alt="Postman"/></span>
+        <span style="background: #ffffff; padding: 10px; border-radius: 14px; border: 1px solid #eeeeee; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.02);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" alt="Figma"/></span>
+      </div>
     </td>
   </tr>
 </table>
