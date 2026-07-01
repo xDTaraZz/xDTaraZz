@@ -47,33 +47,6 @@
 
 ---
 
-# 🛡️ Security Skills
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FiveM-Development-E63946?style=flat-square"/>
-<img src="https://img.shields.io/badge/Game-Security-E63946?style=flat-square"/>
-<img src="https://img.shields.io/badge/Anti--Cheat-E63946?style=flat-square"/>
-<img src="https://img.shields.io/badge/Reverse-Engineering-E63946?style=flat-square"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Memory-Analysis-E63946?style=flat-square"/>
-<img src="https://img.shields.io/badge/Windows-Internals-E63946?style=flat-square"/>
-<img src="https://img.shields.io/badge/Kernel-Research-E63946?style=flat-square"/>
-<img src="https://img.shields.io/badge/Debugging-E63946?style=flat-square"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Binary-Analysis-E63946?style=flat-square"/>
-<img src="https://img.shields.io/badge/Static-Analysis-E63946?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dynamic-Analysis-E63946?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-Development-E63946?style=flat-square"/>
-
-</div>
-
----
-
 # 🛠 Tools
 
 <div align="center">
