@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 832 250" width="100%" role="img" aria-label="Field Dossier and Bangkok Radar">
+  <defs>
+    <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ff1744" fill-opacity="0.14"/>
+    </pattern>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      @keyframes pulseRing {
+        0% { r: 4; opacity: 0.95; }
+        100% { r: 22; opacity: 0; }
+      }
+      .ping { animation: pulseRing 2.4s cubic-bezier(0, 0, 0.2, 1) infinite; }
+    </style>
+  </defs>
+
+  <polygon points="14,1 831,1 831,235 817,249 1,249 1,15" fill="#0a0c17" stroke="#22293e" stroke-width="1.5"/>
+  <polygon points="620,1 831,1 831,110 700,1" fill="url(#dots)"/>
+  <polyline points="1,48 1,15 15,1 58,1" fill="none" stroke="#ff1744" stroke-width="2.5"/>
+  <polyline points="831,202 831,235 817,249 774,249" fill="none" stroke="#00e5ff" stroke-width="2.5"/>
+
+  <!-- Top Header Strip -->
+  <rect x="26" y="20" width="122" height="22" fill="#ffe600"/>
+  <text x="87" y="35" text-anchor="middle" class="mono" font-size="11" font-weight="800" fill="#07080f" letter-spacing="0.8">DOSSIER #1610</text>
+  <text x="162" y="35" class="mono" font-size="12" font-weight="700" fill="#00e5ff" letter-spacing="0.8">TARA  //  LOW-LEVEL &amp; SYSTEMS DEVELOPER</text>
+
+  <!-- Humanized bio text -->
+  <text x="26" y="68" class="sans" font-size="13.5" fill="#f1f5f9">I'm Tara, a 17-year-old developer in Bangkok with 6+ years writing code.</text>
+  <text x="26" y="90" class="sans" font-size="13.2" fill="#cbd5e1">Most of my work sits close to memory and bytecode: reading x64 assembly,</text>
+  <text x="26" y="112" class="sans" font-size="13.2" fill="#cbd5e1">unpacking custom Luau VMs, and writing native C++, Rust, and Python tools.</text>
+  <text x="26" y="134" class="sans" font-size="13.2" fill="#94a3b8">Outside RE work, I build custom server systems for FiveM, RedM, and Roblox.</text>
+
+  <!-- Bottom 3 Engineering Spec Boxes -->
+  <g transform="translate(26, 158)">
+    <rect x="0" y="0" width="184" height="68" fill="#0f1324" stroke="#ff1744" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="12" y="20" class="mono" font-size="10.5" font-weight="700" fill="#ff1744" letter-spacing="0.8">REVERSE &amp; INTERNALS</text>
+    <text x="12" y="40" class="mono" font-size="12" font-weight="600" fill="#f8fafc">x64 ASM · PE32+ Certs</text>
+    <text x="12" y="56" class="mono" font-size="11.5" fill="#94a3b8">Luau VM · AOB Pointers</text>
+
+    <rect x="196" y="0" width="184" height="68" fill="#0f1324" stroke="#00e5ff" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="208" y="20" class="mono" font-size="10.5" font-weight="700" fill="#00e5ff" letter-spacing="0.8">NATIVE &amp; BACKEND</text>
+    <text x="208" y="40" class="mono" font-size="12" font-weight="600" fill="#f8fafc">C++ · Rust · C# · Go</text>
+    <text x="208" y="56" class="mono" font-size="11.5" fill="#94a3b8">Python · Lua · SQL</text>
+
+    <rect x="392" y="0" width="184" height="68" fill="#0f1324" stroke="#ffe600" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="404" y="20" class="mono" font-size="10.5" font-weight="700" fill="#ffe600" letter-spacing="0.8">MULTIPLAYER</text>
+    <text x="404" y="40" class="mono" font-size="12" font-weight="600" fill="#f8fafc">FiveM · RedM</text>
+    <text x="404" y="56" class="mono" font-size="11.5" fill="#94a3b8">Roblox · Minecraft</text>
+  </g>
+
+  <!-- Right Bangkok Radar Widget (mirrors xdtaraz.com BANGKOK RADAR) -->
+  <g transform="translate(628, 22)">
+    <rect x="0" y="0" width="180" height="204" fill="#07080f" stroke="#1e293b" stroke-width="1.2"/>
+    <rect x="0" y="0" width="180" height="24" fill="#11162a"/>
+    <text x="10" y="16" class="mono" font-size="10" font-weight="800" fill="#00e5ff" letter-spacing="1">BANGKOK RADAR</text>
+    <text x="170" y="16" text-anchor="end" class="mono" font-size="9.5" font-weight="700" fill="#ffe600">ICT +07</text>
+
+    <!-- Radar Scope -->
+    <g transform="translate(90, 102)">
+      <circle cx="0" cy="0" r="54" fill="#090d1a" stroke="#1e293b" stroke-width="1"/>
+      <circle cx="0" cy="0" r="36" fill="none" stroke="#00e5ff" stroke-opacity="0.22" stroke-width="1" stroke-dasharray="4 3"/>
+      <circle cx="0" cy="0" r="18" fill="none" stroke="#ff1744" stroke-opacity="0.28" stroke-width="1"/>
+      <line x1="-54" y1="0" x2="54" y2="0" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+      <line x1="0" y1="-54" x2="0" y2="54" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+      <path d="M -12,-52 C -4,-30 -16,-12 -2,2 C 10,14 -6,32 4,52" fill="none" stroke="#00e5ff" stroke-opacity="0.28" stroke-width="2.2"/>
+      <circle cx="0" cy="0" r="5" fill="#ff1744" class="ping"/>
+      <circle cx="0" cy="0" r="4" fill="#ff1744"/>
+      <circle cx="0" cy="0" r="1.8" fill="#ffffff"/>
+    </g>
+
+    <text x="90" y="175" text-anchor="middle" class="mono" font-size="10.5" font-weight="700" fill="#e2e8f0">Bangkok, Thailand</text>
+    <text x="90" y="191" text-anchor="middle" class="mono" font-size="9.5" fill="#64748b">13.7563° N, 100.5018° E</text>
+  </g>
+</svg>

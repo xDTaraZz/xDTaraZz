@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 38" width="256" height="38" role="img" aria-label="DISCORD: @xdtaraz_exe">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+    </style>
+  </defs>
+  <polygon points="8,1 255,1 255,29 247,37 1,37 1,9" fill="#0a0c17" stroke="#00e5ff" stroke-opacity="0.7" stroke-width="1.5"/>
+  <polygon points="8,1 86,1 78,37 1,37 1,9" fill="#00e5ff"/>
+  <text x="41" y="23" text-anchor="middle" class="mono" font-size="10.5" font-weight="800" fill="#07080f" letter-spacing="0.8">DISCORD</text>
+  <text x="167" y="23" text-anchor="middle" class="mono" font-size="11.5" font-weight="700" fill="#f8fafc" letter-spacing="0.5">@xdtaraz_exe</text>
+</svg>

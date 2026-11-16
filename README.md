@@ -1,75 +1,55 @@
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=xDTaraZ+%2F+2009" alt="Typing SVG"/>
-</a>
-
+  <a href="https://xdtaraz.com">
+    <img src="./assets/hero-banner.svg" width="100%" alt="xDTaraZ Issue #1610"/>
+  </a>
 </div>
 
----
+<p align="center">
+  <a href="https://xdtaraz.com"><img src="./assets/portal-web.svg" height="36" alt="xdtaraz.com"/></a>&nbsp;&nbsp;<a href="https://discord.com/users/957154224079257651"><img src="./assets/portal-discord.svg" height="36" alt="Discord @xdtaraz_exe"/></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@xDTaraZ"><img src="./assets/portal-youtube.svg" height="36" alt="YouTube @xDTaraZ"/></a>
+</p>
 
-# 💻 Tech Stack
+<p align="center">
+  <img src="./assets/section-dossier.svg" width="100%" alt="01 Field Dossier"/>
+</p>
 
-<table align="center">
-<tr>
+<p align="center">
+  <a href="https://xdtaraz.com"><img src="https://xdtaraz.com/theme/presets/miles/scene-1.gif" width="28.5%" alt="Earth-1610 Miles Morales"/></a>&nbsp;<a href="https://xdtaraz.com"><img src="./assets/bangkok-radar-hud.svg" width="69.5%" alt="Tara Dossier and Bangkok Radar"/></a>
+</p>
 
-<td align="center" width="50%">
+<p align="center">
+  <img src="./assets/section-projects.svg" width="100%" alt="02 Selected Work"/>
+</p>
 
-### Languages
+<p align="center">
+  <a href="https://github.com/xDTaraZz/Deobfuscator-Luraph-V15"><img src="./assets/card-deobfuscator.svg" width="49%" alt="Deobfuscator-Luraph-V15"/></a>&nbsp;<a href="https://github.com/xDTaraZz/GestureCast"><img src="./assets/card-gesturecast.svg" width="49%" alt="GestureCast"/></a>
+</p>
 
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<p align="center">
+  <a href="https://github.com/xDTaraZz/AobToPointerFiveM"><img src="./assets/card-aobpointer.svg" width="49%" alt="AobToPointerFiveM"/></a>&nbsp;<a href="https://github.com/xDTaraZz/DumpCert-InjectCert"><img src="./assets/card-dumpcert.svg" width="49%" alt="DumpCert-InjectCert"/></a>
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+<p align="center">
+  <img src="./assets/section-stack.svg" width="100%" alt="03 Stack and Debuggers"/>
+</p>
 
-<img src="https://img.shields.io/badge/Assembly-B71C1C?style=flat-square"/>
+<p align="center">
+  <img src="./assets/arsenal-stack.svg" width="100%" alt="Languages, Reverse Engineering Tools, Databases, and Infrastructure"/>
+</p>
 
-</td>
-
-<td align="center" width="50%">
-
-### Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠 Tools
+<p align="center">
+  <img src="./assets/section-activity.svg" width="100%" alt="04 Commit Graph"/>
+</p>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xDTaraZz/xDTaraZz/output/spider-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xDTaraZz/xDTaraZz/output/spider-snake-light.svg"/>
+    <img alt="Contribution graph" src="https://raw.githubusercontent.com/xDTaraZz/xDTaraZz/output/spider-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
 
-<img src="https://img.shields.io/badge/x64dbg-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/IDA%20Pro-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ghidra-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cheat%20Engine-111111?style=flat-square"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-
+<div align="center">
+  <a href="https://xdtaraz.com">
+    <img src="./assets/footer-collider.svg" width="100%" alt="xDTaraZ.com Earth-1610"/>
+  </a>
 </div>

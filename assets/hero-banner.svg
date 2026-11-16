@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" role="img" aria-label="xDTaraZ Issue #1610 Banner">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07080f"/>
+      <stop offset="55%" stop-color="#0b0d19"/>
+      <stop offset="100%" stop-color="#110918"/>
+    </linearGradient>
+    <radialGradient id="crimsonGlow" cx="22%" cy="18%" r="55%">
+      <stop offset="0%" stop-color="#ff1744" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#ff1744" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="86%" cy="82%" r="50%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="halftoneRed" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(-14)">
+      <circle cx="4" cy="4" r="2.1" fill="#ff1744" fill-opacity="0.18"/>
+    </pattern>
+    <pattern id="halftoneCyan" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(18)">
+      <circle cx="3" cy="3" r="1.6" fill="#00e5ff" fill-opacity="0.16"/>
+    </pattern>
+    <pattern id="scanGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.025" stroke-width="1"/>
+    </pattern>
+    <clipPath id="panelClip">
+      <polygon points="18,0 1200,0 1200,302 1182,320 0,320 0,18"/>
+    </clipPath>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; }
+      .display { font-family: 'Impact', 'Arial Black', 'Franklin Gothic Heavy', system-ui, sans-serif; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      @keyframes spiderDrop {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(6px); }
+      }
+      @keyframes glitchShift {
+        0%, 92%, 100% { transform: translate(0, 0); opacity: 0.88; }
+        94% { transform: translate(-3px, 1px); opacity: 1; }
+        96% { transform: translate(3px, -1px); opacity: 0.95; }
+        98% { transform: translate(-1px, 0); opacity: 0.9; }
+      }
+      @keyframes radarBlink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.25; }
+      }
+      .totem { animation: spiderDrop 4.2s ease-in-out infinite; }
+      .glitch-cyan { animation: glitchShift 6.5s steps(1) infinite; }
+      .blink { animation: radarBlink 2.2s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#panelClip)">
+    <rect width="1200" height="320" fill="url(#bgGrad)"/>
+    <rect width="1200" height="320" fill="url(#scanGrid)"/>
+    <rect width="1200" height="320" fill="url(#crimsonGlow)"/>
+    <rect width="1200" height="320" fill="url(#cyanGlow)"/>
+
+    <!-- Angled comic halftone shards -->
+    <polygon points="760,0 1200,0 1200,190 910,0" fill="url(#halftoneRed)"/>
+    <polygon points="0,210 330,320 0,320" fill="url(#halftoneCyan)"/>
+
+    <!-- Speed & dimension slash accents -->
+    <polygon points="690,0 704,0 594,320 580,320" fill="#ff1744" fill-opacity="0.14"/>
+    <polygon points="712,0 716,0 606,320 602,320" fill="#00e5ff" fill-opacity="0.18"/>
+
+    <!-- Architectural spider-web corner -->
+    <g>
+      <line x1="0.0" y1="0.0" x2="365.0" y2="0.0" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    <line x1="0.0" y1="0.0" x2="350.9" y2="100.6" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    <line x1="0.0" y1="0.0" x2="309.5" y2="193.4" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    <line x1="0.0" y1="0.0" x2="244.2" y2="271.2" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    <line x1="0.0" y1="0.0" x2="160.0" y2="328.1" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    <line x1="0.0" y1="0.0" x2="63.4" y2="359.5" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    <line x1="0.0" y1="0.0" x2="-31.8" y2="363.6" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    <path d="M 55.0 0.0 Q 47.9 6.7 52.9 15.2 Q 44.2 19.7 46.6 29.1 Q 37.1 31.1 36.8 40.9 Q 27.1 40.1 24.1 49.4 Q 15.0 46.0 9.6 54.2 Q 2.1 48.4 -4.8 54.8" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+    <path d="M 105.0 0.0 Q 91.5 12.9 100.9 28.9 Q 84.4 37.6 89.0 55.6 Q 70.8 59.4 70.3 78.0 Q 51.7 76.6 46.0 94.4 Q 28.6 87.9 18.2 103.4 Q 4.0 92.3 -9.2 104.6" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+    <path d="M 160.0 0.0 Q 139.4 19.6 153.8 44.1 Q 128.6 57.3 135.7 84.8 Q 107.9 90.5 107.1 118.9 Q 78.7 116.7 70.1 143.8 Q 43.5 133.9 27.8 157.6 Q 6.1 140.7 -13.9 159.4" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+    <path d="M 220.0 0.0 Q 191.7 26.9 211.5 60.6 Q 176.9 78.7 186.6 116.6 Q 148.3 124.4 147.2 163.5 Q 108.3 160.5 96.4 197.7 Q 59.8 184.1 38.2 216.7 Q 8.4 193.4 -19.2 219.2" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+    <path d="M 290.0 0.0 Q 252.7 35.5 278.8 79.9 Q 233.1 103.8 245.9 153.7 Q 195.5 164.0 194.0 215.5 Q 142.7 211.6 127.1 260.7 Q 78.9 242.7 50.4 285.6 Q 11.1 255.0 -25.3 288.9" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+    <path d="M 365.0 0.0 Q 318.1 44.7 350.9 100.6 Q 293.4 130.6 309.5 193.4 Q 246.1 206.5 244.2 271.2 Q 179.6 266.3 160.0 328.1 Q 99.3 305.5 63.4 359.5 Q 14.0 320.9 -31.8 363.6" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+    </g>
+
+    <!-- Comic issue stamp (top-left) -->
+    <g transform="translate(56, 36)">
+      <rect x="3" y="3" width="154" height="30" fill="#ff1744"/>
+      <rect x="0" y="0" width="154" height="30" fill="#ffe600" stroke="#07080f" stroke-width="2"/>
+      <text x="12" y="20" class="mono" font-size="12" font-weight="800" fill="#07080f" letter-spacing="1.2">ISSUE #1610 · BKK</text>
+
+      <rect x="168" y="4" width="152" height="24" rx="2" fill="#0c0e1a" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="1"/>
+      <circle cx="182" cy="16" r="3.5" fill="#00e5ff" class="blink"/>
+      <text x="193" y="20" class="mono" font-size="11" font-weight="700" fill="#00e5ff" letter-spacing="1">EARTH-1610</text>
+    </g>
+
+    <!-- Main Chromatic Title -->
+    <g transform="translate(56, 166)">
+      <text x="-4" y="2" class="display glitch-cyan" font-size="92" font-weight="900" fill="#00e5ff" letter-spacing="3">xDTaraZ</text>
+      <text x="4" y="-2" class="display" font-size="92" font-weight="900" fill="#ff1744" fill-opacity="0.92" letter-spacing="3">xDTaraZ</text>
+      <text x="0" y="0" class="display" font-size="92" font-weight="900" fill="#ffffff" letter-spacing="3">xDTaraZ</text>
+    </g>
+
+    <!-- Subtitle & engineering scope -->
+    <g transform="translate(58, 204)">
+      <rect x="0" y="-14" width="4" height="44" fill="#ff1744"/>
+      <text x="16" y="2" class="sans" font-size="17" font-weight="600" fill="#f1f5f9" letter-spacing="0.3">Reverse engineering, x64 assembly, Luau VM internals, and native systems tooling.</text>
+      <text x="16" y="25" class="mono" font-size="12.5" font-weight="500" fill="#94a3b8" letter-spacing="0.6">C++  ·  Rust  ·  C#  ·  Lua  ·  Python  ·  Go   //   Bangkok, Thailand (13.7563° N, 100.5018° E)</text>
+    </g>
+
+    <!-- Bottom editorial bar -->
+    <g transform="translate(58, 272)">
+      <rect x="0" y="0" width="212" height="24" fill="#ff1744" fill-opacity="0.16" stroke="#ff1744" stroke-opacity="0.6" stroke-width="1"/>
+      <text x="10" y="16" class="mono" font-size="11" font-weight="700" fill="#ff8a9e" letter-spacing="1">HUB // XDTARAZ.COM</text>
+
+      <rect x="224" y="0" width="246" height="24" fill="#0c0e1a" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1"/>
+      <text x="235" y="16" class="mono" font-size="11" font-weight="600" fill="#cbd5e1" letter-spacing="0.8">6+ YRS LOW-LEVEL &amp; GAME SERVERS</text>
+    </g>
+
+    <!-- Right-side Spider-Sense HUD Graphic + Hanging Spider Totem (exact silhouette from xdtaraz.com) -->
+    <g transform="translate(955, 0)">
+      <!-- Background HUD Rings -->
+      <g transform="translate(95, 172)">
+        <circle cx="0" cy="0" r="96" fill="none" stroke="#ff1744" stroke-opacity="0.22" stroke-width="1.2" stroke-dasharray="8 6"/>
+        <circle cx="0" cy="0" r="72" fill="#0c0e1a" fill-opacity="0.78" stroke="#00e5ff" stroke-opacity="0.35" stroke-width="1.2"/>
+        <circle cx="0" cy="0" r="52" fill="none" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
+        <!-- Spider-sense comic burst spikes -->
+        <path d="M -88,-24 L -112,-34 M -82,28 L -108,40 M 88,-24 L 112,-34 M 82,28 L 108,40 M -42,-82 L -56,-104 M 42,-82 L 56,-104" stroke="#ffe600" stroke-width="2.2" stroke-linecap="round" stroke-opacity="0.8"/>
+      </g>
+
+      <!-- Hanging Silk Thread + Spider Totem -->
+      <g class="totem">
+        <line x1="95" y1="-10" x2="95" y2="124" stroke="#ffffff" stroke-opacity="0.75" stroke-width="1.8"/>
+        <line x1="97" y1="-10" x2="97" y2="124" stroke="#ff1744" stroke-opacity="0.65" stroke-width="1"/>
+        <g transform="translate(95, 170)">
+          <circle cx="0" cy="0" r="42" fill="#090b14" stroke="#ff1744" stroke-width="2"/>
+          <!-- Exact Spider Icon from xdtaraz.com rotated upright/hanging -->
+          <g transform="translate(-32, -32) rotate(180 32 32)">
+            <path d="M32 14C36.4 14 39.5 18.2 39.5 23.5C39.5 28.4 41.2 32.8 41.2 38.5C41.2 44.8 36.8 50.2 32 52C27.2 50.2 22.8 44.8 22.8 38.5C22.8 32.8 24.5 28.4 24.5 23.5C24.5 18.2 27.6 14 32 14Z" fill="#ff1744"/>
+            <path d="M25 22L10 8L4 17M23 27L6 22L2 34M23 33L6 40L9 53M25 39L12 54L20 62M39 22L54 8L60 17M41 27L58 22L62 34M41 33L58 40L55 53M39 39L52 54L44 62" stroke="#ff1744" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+            <path d="M28 21L30.5 24.5L27 25.5Z" fill="#07080f"/>
+            <path d="M36 21L33.5 24.5L37 25.5Z" fill="#07080f"/>
+          </g>
+          <!-- Chromatic cyan echo on spider legs -->
+          <circle cx="0" cy="0" r="46" fill="none" stroke="#00e5ff" stroke-opacity="0.4" stroke-width="1" stroke-dasharray="18 12"/>
+        </g>
+        <!-- E-1610 Pill under totem -->
+        <rect x="61" y="224" width="68" height="20" rx="10" fill="#07080f" stroke="#ffe600" stroke-width="1.3"/>
+        <text x="95" y="238" text-anchor="middle" class="mono" font-size="10" font-weight="800" fill="#ffe600" letter-spacing="1">E-1610</text>
+      </g>
+    </g>
+
+    <!-- Outer Comic Frame Border -->
+    <polygon points="18,1 1199,1 1199,301 1181,319 1,319 1,19" fill="none" stroke="#ff1744" stroke-opacity="0.55" stroke-width="2"/>
+    <polyline points="1,64 1,19 19,1 76,1" fill="none" stroke="#00e5ff" stroke-width="3"/>
+    <polyline points="1199,254 1199,301 1181,319 1124,319" fill="none" stroke="#ffe600" stroke-width="3"/>
+  </g>
+</svg>

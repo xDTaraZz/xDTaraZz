@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 72" width="100%" role="img" aria-label="xDTaraZ Footer">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+    </style>
+  </defs>
+  <rect width="1200" height="72" fill="#07080f"/>
+  <line x1="0" y1="12" x2="1200" y2="12" stroke="#1a2035" stroke-width="1"/>
+  <rect x="0" y="11" width="180" height="3" fill="#ff1744"/>
+  <rect x="184" y="11" width="90" height="3" fill="#00e5ff"/>
+  <rect x="278" y="11" width="42" height="3" fill="#ffe600"/>
+
+  <text x="24" y="45" class="mono" font-size="11.5" font-weight="700" fill="#cbd5e1" letter-spacing="1">XDTARAZ  ·  EARTH-1610  ·  BANGKOK, THAILAND</text>
+  <text x="1176" y="45" text-anchor="end" class="mono" font-size="11.5" font-weight="700" fill="#ff1744" letter-spacing="1">XDTARAZ.COM</text>
+</svg>
