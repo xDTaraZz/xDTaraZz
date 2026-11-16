@@ -16,7 +16,7 @@
   <img src="./assets/spidey-hanging-coder.png" align="right" width="215" alt="Hanging web-slinger coder"/>
 </a>
 
-### Hey, I'm Tara (`#1610`)
+### Hey, I'm Tara
 
 I'm a 17-year-old freelance developer in Bangkok with 6+ years writing code close to memory and bytecode.
 
