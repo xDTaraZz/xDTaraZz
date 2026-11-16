@@ -1,38 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 164" width="100%" role="img" aria-label="DumpCert-InjectCert">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 414 198" width="100%" role="img" aria-label="DumpCert-InjectCert">
   <defs>
-    <pattern id="cardDots_LAB-04" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(-12)">
-      <circle cx="2.5" cy="2.5" r="1.3" fill="#ff2a85" fill-opacity="0.16"/>
+    <pattern id="dots_02" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(-15)">
+      <circle cx="3" cy="3" r="1.6" fill="#00e5ff" fill-opacity="0.16"/>
     </pattern>
     <style>
-      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
-      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .title { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'Cascadia Code', Consolas, monospace; }
     </style>
   </defs>
 
-  <!-- Card Body with Comic Cut Corners -->
-  <polygon points="12,1 579,1 579,151 567,163 1,163 1,13" fill="#0a0c17" stroke="#1f263b" stroke-width="1.5"/>
-  <polygon points="430,1 579,1 579,88 495,1" fill="url(#cardDots_LAB-04)"/>
+  <!-- Hard Comic Offset Shadow -->
+  <polygon points="10,10 412,8 408,194 6,196" fill="#00e5ff"/>
 
-  <!-- Left Accent Bar & Corner Ticks -->
-  <rect x="1" y="13" width="4" height="150" fill="#ff2a85"/>
-  <polyline points="1,34 1,13 13,1 44,1" fill="none" stroke="#ff2a85" stroke-width="2.2"/>
-  <polyline points="579,130 579,151 567,163 536,163" fill="none" stroke="#00e5ff" stroke-width="2.2"/>
+  <!-- Main Comic Panel -->
+  <polygon points="4,4 406,2 402,188 2,190" fill="#0d1222" stroke="#f8fafc" stroke-width="2.2"/>
 
-  <!-- Issue Header -->
-  <rect x="22" y="18" width="70" height="20" fill="#ff2a85" fill-opacity="0.16" stroke="#ff2a85" stroke-opacity="0.6" stroke-width="1"/>
-  <text x="57" y="32" text-anchor="middle" class="mono" font-size="10.5" font-weight="800" fill="#ff2a85" letter-spacing="0.8">LAB-04</text>
-  <text x="104" y="32" class="mono" font-size="10.5" font-weight="700" fill="#94a3b8" letter-spacing="0.8">PE BINARY TOOLING</text>
+  <!-- Subtle Halftone Corner -->
+  <polygon points="250,3 405,2 403,115" fill="url(#dots_02)"/>
 
-  <!-- Repo Name -->
-  <text x="22" y="64" class="mono" font-size="19" font-weight="800" fill="#f8fafc">DumpCert-InjectCert</text>
+  <!-- Corner Spider-Web -->
+  <g>
+    <line x1="406.0" y1="8.0" x2="386.9" y2="116.3" stroke="#00e5ff" stroke-opacity="0.24" stroke-width="1.2"/>
+    <line x1="406.0" y1="8.0" x2="347.7" y2="101.3" stroke="#00e5ff" stroke-opacity="0.24" stroke-width="1.2"/>
+    <line x1="406.0" y1="8.0" x2="315.9" y2="71.1" stroke="#00e5ff" stroke-opacity="0.24" stroke-width="1.2"/>
+    <line x1="406.0" y1="8.0" x2="298.4" y2="30.9" stroke="#00e5ff" stroke-opacity="0.24" stroke-width="1.2"/>
+    <path d="M 401.5 33.6 Q 398.0 28.9 392.2 30.0 Q 390.6 24.2 384.7 22.9 Q 385.5 16.9 380.6 13.4" fill="none" stroke="#00e5ff" stroke-opacity="0.24" stroke-width="1.2"/>
+    <path d="M 397.0 59.2 Q 390.0 49.7 378.4 52.1 Q 375.2 40.4 363.4 37.8 Q 365.0 25.8 355.1 18.8" fill="none" stroke="#00e5ff" stroke-opacity="0.24" stroke-width="1.2"/>
+    <path d="M 392.1 86.8 Q 381.3 72.2 363.6 75.8 Q 358.6 57.9 340.5 53.9 Q 342.9 35.4 327.7 24.6" fill="none" stroke="#00e5ff" stroke-opacity="0.24" stroke-width="1.2"/>
+    <path d="M 386.9 116.3 Q 372.1 96.3 347.7 101.3 Q 340.9 76.6 315.9 71.1 Q 319.2 45.7 298.4 30.9" fill="none" stroke="#00e5ff" stroke-opacity="0.24" stroke-width="1.2"/>
+  </g>
 
-  <!-- Plain factual description (humanizer-checked) -->
-  <text x="22" y="92" class="sans" font-size="13" fill="#cbd5e1">Extracts Authenticode certificate tables from signed PE files</text>
-  <text x="22" y="112" class="sans" font-size="13" fill="#94a3b8">and writes them into target Windows executables.</text>
+  <!-- Classic Yellow/Cyan Comic Caption Box -->
+  <polygon points="16,15 112,14 108,38 14,39" fill="#00e5ff" stroke="#05070e" stroke-width="2"/>
+  <text x="63" y="31" text-anchor="middle" class="mono" font-size="11.5" font-weight="900" fill="#070912" letter-spacing="0.5">ISSUE #02</text>
 
-  <!-- Footer Stack & Open Prompt -->
-  <line x1="22" y1="128" x2="556" y2="128" stroke="#181e30" stroke-width="1"/>
-  <circle cx="28" cy="145" r="4" fill="#00e5ff"/>
-  <text x="40" y="149" class="mono" font-size="11" font-weight="600" fill="#cbd5e1">Python · PE32+ Header Internals</text>
-  <text x="556" y="149" text-anchor="end" class="mono" font-size="10.5" font-weight="700" fill="#00e5ff" letter-spacing="0.8">OPEN REPO &gt;</text>
+  <text x="120" y="31" class="mono" font-size="11.5" font-weight="700" fill="#94a3b8" letter-spacing="0.4">PE32+ BINARY TOOLING</text>
+  
+
+  <!-- Project Title (21px true size — super readable!) -->
+  <text x="20" y="70" class="title" font-size="21" font-weight="800" fill="#ffffff">DumpCert-InjectCert</text>
+
+  <!-- Description (14px true size, high contrast) -->
+  <text x="20" y="99" class="sans" font-size="14" font-weight="500" fill="#e2e8f0">Extracts Authenticode certificate tables from signed</text>
+  <text x="20" y="121" class="sans" font-size="14" font-weight="500" fill="#cbd5e1">Windows binaries and injects them into target PEs.</text>
+
+  <!-- Bottom Divider & Stack Bar -->
+  <line x1="20" y1="145" x2="388" y2="145" stroke="#232d4b" stroke-width="1.5"/>
+  <circle cx="27" cy="166" r="4.5" fill="#00e5ff"/>
+  <text x="39" y="171" class="mono" font-size="12.5" font-weight="700" fill="#f1f5f9">Python · Windows PE Internals</text>
+
+  <!-- Action Button Tag -->
+  <polygon points="316,154 390,153 387,177 313,178" fill="#00e5ff"/>
+  <text x="351" y="169" text-anchor="middle" class="mono" font-size="11" font-weight="900" fill="#060811">OPEN &gt;&gt;</text>
 </svg>

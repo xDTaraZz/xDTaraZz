@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 414 198" width="100%" role="img" aria-label="Roblox Scripts">
+  <defs>
+    <pattern id="dots_01" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(-15)">
+      <circle cx="3" cy="3" r="1.6" fill="#ff1744" fill-opacity="0.16"/>
+    </pattern>
+    <style>
+      .title { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'Cascadia Code', Consolas, monospace; }
+    </style>
+  </defs>
+
+  <!-- Hard Comic Offset Shadow -->
+  <polygon points="10,10 412,8 408,194 6,196" fill="#ff1744"/>
+
+  <!-- Main Comic Panel -->
+  <polygon points="4,4 406,2 402,188 2,190" fill="#0d1222" stroke="#f8fafc" stroke-width="2.2"/>
+
+  <!-- Subtle Halftone Corner -->
+  <polygon points="250,3 405,2 403,115" fill="url(#dots_01)"/>
+
+  <!-- Corner Spider-Web -->
+  <g>
+    <line x1="406.0" y1="8.0" x2="386.9" y2="116.3" stroke="#ff1744" stroke-opacity="0.24" stroke-width="1.2"/>
+    <line x1="406.0" y1="8.0" x2="347.7" y2="101.3" stroke="#ff1744" stroke-opacity="0.24" stroke-width="1.2"/>
+    <line x1="406.0" y1="8.0" x2="315.9" y2="71.1" stroke="#ff1744" stroke-opacity="0.24" stroke-width="1.2"/>
+    <line x1="406.0" y1="8.0" x2="298.4" y2="30.9" stroke="#ff1744" stroke-opacity="0.24" stroke-width="1.2"/>
+    <path d="M 401.5 33.6 Q 398.0 28.9 392.2 30.0 Q 390.6 24.2 384.7 22.9 Q 385.5 16.9 380.6 13.4" fill="none" stroke="#ff1744" stroke-opacity="0.24" stroke-width="1.2"/>
+    <path d="M 397.0 59.2 Q 390.0 49.7 378.4 52.1 Q 375.2 40.4 363.4 37.8 Q 365.0 25.8 355.1 18.8" fill="none" stroke="#ff1744" stroke-opacity="0.24" stroke-width="1.2"/>
+    <path d="M 392.1 86.8 Q 381.3 72.2 363.6 75.8 Q 358.6 57.9 340.5 53.9 Q 342.9 35.4 327.7 24.6" fill="none" stroke="#ff1744" stroke-opacity="0.24" stroke-width="1.2"/>
+    <path d="M 386.9 116.3 Q 372.1 96.3 347.7 101.3 Q 340.9 76.6 315.9 71.1 Q 319.2 45.7 298.4 30.9" fill="none" stroke="#ff1744" stroke-opacity="0.24" stroke-width="1.2"/>
+  </g>
+
+  <!-- Classic Yellow/Cyan Comic Caption Box -->
+  <polygon points="16,15 112,14 108,38 14,39" fill="#ffe600" stroke="#05070e" stroke-width="2"/>
+  <text x="63" y="31" text-anchor="middle" class="mono" font-size="11.5" font-weight="900" fill="#070912" letter-spacing="0.5">ISSUE #01</text>
+
+  <text x="120" y="31" class="mono" font-size="11.5" font-weight="700" fill="#94a3b8" letter-spacing="0.4">ROBLOX LUAU HUB</text>
+  
+  <rect x="308" y="16" width="84" height="22" rx="3" fill="#131b33" stroke="#ff1744" stroke-width="1.3"/>
+  <text x="350" y="31" text-anchor="middle" class="mono" font-size="11" font-weight="800" fill="#ff1744">★ 3 · ⑂ 3</text>
+
+  <!-- Project Title (21px true size — super readable!) -->
+  <text x="20" y="70" class="title" font-size="21" font-weight="800" fill="#ffffff">Roblox Scripts</text>
+
+  <!-- Description (14px true size, high contrast) -->
+  <text x="20" y="99" class="sans" font-size="14" font-weight="500" fill="#e2e8f0">Mario Hub loader covering 15+ Roblox games with a</text>
+  <text x="20" y="121" class="sans" font-size="14" font-weight="500" fill="#cbd5e1">custom Luau UI library and keyless execution.</text>
+
+  <!-- Bottom Divider & Stack Bar -->
+  <line x1="20" y1="145" x2="388" y2="145" stroke="#232d4b" stroke-width="1.5"/>
+  <circle cx="27" cy="166" r="4.5" fill="#ff1744"/>
+  <text x="39" y="171" class="mono" font-size="12.5" font-weight="700" fill="#f1f5f9">Lua · Luau UI · 15+ Games</text>
+
+  <!-- Action Button Tag -->
+  <polygon points="316,154 390,153 387,177 313,178" fill="#ff1744"/>
+  <text x="351" y="169" text-anchor="middle" class="mono" font-size="11" font-weight="900" fill="#060811">OPEN &gt;&gt;</text>
+</svg>

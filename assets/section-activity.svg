@@ -1,15 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 54" width="100%" role="img" aria-label="COMMIT GRAPH">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 846 68" width="100%" role="img" aria-label="SPIDER-SENSE TELEMETRY">
   <defs>
     <style>
-      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
-      .heading { font-family: 'Segoe UI Black', 'Arial Black', system-ui, sans-serif; }
+      .comic { font-family: 'Arial Black', 'Segoe UI Black', Impact, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'Cascadia Code', Consolas, monospace; }
     </style>
   </defs>
-  <rect x="0" y="10" width="1200" height="36" fill="#090b14"/>
-  <line x1="0" y1="46" x2="1200" y2="46" stroke="#1e2436" stroke-width="1.5"/>
-  <line x1="0" y1="46" x2="340" y2="46" stroke="#ff1744" stroke-width="2.5"/>
-  <polygon points="0,10 56,10 46,46 0,46" fill="#ff1744"/>
-  <text x="25" y="33" text-anchor="middle" class="mono" font-size="13.5" font-weight="800" fill="#07080f">04</text>
-  <text x="70" y="34" class="heading" font-size="18.5" font-weight="900" fill="#f8fafc" letter-spacing="2.2">COMMIT GRAPH</text>
-  <text x="1186" y="33" text-anchor="end" class="mono" font-size="11" font-weight="700" fill="#64748b" letter-spacing="1.2">AUTOMATED 12H SYNC // EARTH-1610</text>
+
+  <!-- Web strand across the page -->
+  <line x1="0" y1="38" x2="846" y2="38" stroke="#334155" stroke-width="2"/>
+  <line x1="0" y1="38" x2="520" y2="38" stroke="#ffe600" stroke-width="2.5"/>
+  <!-- Web knots -->
+  <path d="M 520,38 L 534,31 M 520,38 L 534,45 M 534,38 L 846,38" stroke="#64748b" stroke-width="1.4" fill="none"/>
+
+  <!-- Angled Comic Caption Box -->
+  <g transform="translate(6, 8) rotate(-0.8)">
+    <polygon points="6,6 354,4 348,52 2,54" fill="#ffe600"/>
+    <polygon points="2,2 350,0 344,48 -2,50" fill="#0d1326" stroke="#f8fafc" stroke-width="2.2"/>
+    <polygon points="2,2 96,1 90,49 -2,50" fill="#ff1744"/>
+    <line x1="96" y1="1" x2="90" y2="49" stroke="#080b16" stroke-width="2.5"/>
+    <text x="45" y="31" text-anchor="middle" class="mono" font-size="13" font-weight="900" fill="#ffffff" letter-spacing="0.6">ACT III</text>
+    <text x="108" y="33" class="comic" font-size="20" font-weight="900" fill="#ffffff" letter-spacing="1">SPIDER-SENSE TELEMETRY</text>
+  </g>
+
+  <!-- Right-aligned comic caption tag -->
+  <rect x="614" y="24" width="228" height="26" rx="3" fill="#0b0f1e" stroke="#334155" stroke-width="1.4"/>
+  <text x="728" y="41" text-anchor="middle" class="mono" font-size="11.5" font-weight="700" fill="#cbd5e1" letter-spacing="0.6">LIVE COMMIT PATROL · 12H SYNC</text>
 </svg>

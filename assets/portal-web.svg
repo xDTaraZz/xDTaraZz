@@ -1,11 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 38" width="248" height="38" role="img" aria-label="WEB HUB: xdtaraz.com">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246 46" width="246" height="46" role="img" aria-label="WEBSITE: xdtaraz.com">
   <defs>
     <style>
-      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'Cascadia Code', Consolas, monospace; }
     </style>
   </defs>
-  <polygon points="8,1 247,1 247,29 239,37 1,37 1,9" fill="#0a0c17" stroke="#ff1744" stroke-opacity="0.7" stroke-width="1.5"/>
-  <polygon points="8,1 86,1 78,37 1,37 1,9" fill="#ff1744"/>
-  <text x="41" y="23" text-anchor="middle" class="mono" font-size="10.5" font-weight="800" fill="#07080f" letter-spacing="0.8">WEB HUB</text>
-  <text x="163" y="23" text-anchor="middle" class="mono" font-size="11.5" font-weight="700" fill="#f8fafc" letter-spacing="0.5">xdtaraz.com</text>
+  <!-- Hard Comic Shadow -->
+  <polygon points="10,7 244,5 240,44 6,44" fill="#00e5ff"/>
+  <!-- Main Comic Sticker Body -->
+  <polygon points="6,3 240,1 236,40 2,40" fill="#0f1528" stroke="#f8fafc" stroke-width="2"/>
+  <!-- Left Colored Ribbon -->
+  <polygon points="6,3 92,2 85,40 2,40" fill="#ff1744"/>
+  <line x1="92" y1="2" x2="85" y2="40" stroke="#080b16" stroke-width="2.5"/>
+  <text x="46" y="26" text-anchor="middle" class="sans" font-size="12" font-weight="900" fill="#ffffff" letter-spacing="0.8">WEBSITE</text>
+  <text x="162" y="26" text-anchor="middle" class="mono" font-size="13.5" font-weight="700" fill="#ffffff">xdtaraz.com</text>
 </svg>
